@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samaya Mahate</h1>
+<h1 align="center">Hi 👋, I'm Samaya</h1>
 <h3 align="center">Backend Technology Explorer</h3>
 
 - 🌱 I’m currently learning **CI/CD, Docker, Shell Scripting**
