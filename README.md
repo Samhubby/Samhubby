@@ -1,7 +1,8 @@
 <div align="center">
 
-# Hi, I'm Samaya Mahate 👋
+# Hi, I'm Sammy 👋
 ### Associate Backend Developer & AWS Certified Solutions Architect
+<sub>(Samaya Mahate)</sub>
 
 <p align="center">
   <a href="https://aws.amazon.com/verification"><img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Certified" /></a>
