@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://aws.amazon.com/verification"><img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Certified" /></a>
   &nbsp;
-  <a href="https://amniltech.com"><img src="https://img.shields.io/badge/Role-Associate%20Backend%20Developer-0284C7?style=flat&logo=laravel&logoColor=white" alt="Role" /></a>
+  <img src="https://img.shields.io/badge/Specialization-Backend%20Architecture-0284C7?style=flat&logo=laravel&logoColor=white" alt="Specialization" />
   &nbsp;
   <a href="https://www.samayamahate.com.np"><img src="https://img.shields.io/badge/Portfolio-samayamahate.com.np-10B981?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
@@ -115,12 +115,3 @@
 - ☁️ **AWS Certified Solutions Architect – Associate (SAA)** — Amazon Web Services
 - 🔒 **Introduction to Cybersecurity** — Cisco Networking Academy
 - 🌐 **Networking Basics** — Cisco Networking Academy
-
----
-
-### 📊 GitHub Activity & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samhubby&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Samaya's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samhubby&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165" />
-</div>
